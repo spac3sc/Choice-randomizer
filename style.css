@@ -1,0 +1,6 @@
+.choices{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: rgba(95, 95, 189, 0.626);
+}
